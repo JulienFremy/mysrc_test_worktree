@@ -1,0 +1,9 @@
+[submodule "libfoo"]
+	path = libfoo
+	url = https://github.com/JulienFremy/libfoo.git
+[submodule "libbar"]
+	path = libbar
+	url = https://github.com/JulienFremy/libbar.git
+[submodule "awesomeapp"]
+	path = awesomeapp
+	url = https://github.com/JulienFremy/awesomeapp.git
